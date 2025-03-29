@@ -1,0 +1,68 @@
+﻿@model Exam_mvc.Models.Trainee
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create Trainee</h1>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create" class="card p-4 shadow-sm bg-light">
+            <div asp-validation-summary="All" class="alert alert-danger"></div>
+            <input type="hidden" asp-for="ID" />
+
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label fw-bold"><i class="fas fa-user"></i> Name</label>
+                <input asp-for="Name" class="form-control shadow-sm" placeholder="Enter trainee name..." />
+                <span asp-validation-for="Name" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Gender" class="form-label fw-bold"><i class="fas fa-venus-mars"></i> Gender</label>
+                <select asp-for="Gender" class="form-control shadow-sm" asp-items="Html.GetEnumSelectList<Gender>()">
+                    <option disabled selected value="">-- Select Gender --</option>
+                </select>
+                <span asp-validation-for="Gender" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label fw-bold"><i class="fas fa-envelope"></i> Email</label>
+                <input asp-for="Email" class="form-control shadow-sm" placeholder="Enter email..." />
+                <span asp-validation-for="Email" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="MobileNo" class="form-label fw-bold"><i class="fas fa-phone"></i> Mobile No</label>
+                <input asp-for="MobileNo" class="form-control shadow-sm" placeholder="Enter mobile number..." />
+                <span asp-validation-for="MobileNo" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Birthdate" class="form-label fw-bold"><i class="fas fa-birthday-cake"></i> Birthdate</label>
+                <input asp-for="Birthdate" type="date" class="form-control shadow-sm" />
+                <span asp-validation-for="Birthdate" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="TrackID" class="form-label fw-bold"><i class="fas fa-layer-group"></i> Track</label>
+                <select asp-for="TrackID" class="form-control shadow-sm" asp-items="ViewBag.tracks">
+                    <option disabled selected value="">-- Select a Track --</option>
+                </select>
+                <span asp-validation-for="TrackID" class="text-danger small"></span>
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary px-4">Create</button>
+                <a asp-action="Index" class="btn btn-secondary ms-2">Back</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>
+}

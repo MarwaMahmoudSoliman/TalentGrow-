@@ -1,0 +1,886 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\traineecourse\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\traineecourse\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\traineecourse\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\traineecourse\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\controllers\\traineecoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\controllers\\traineecoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\track\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\track\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\traineecourse\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\traineecourse\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\models\\traineecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\models\\traineecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\models\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\models\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\viewmodels\\loginuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\viewmodels\\loginuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\shared\\_navpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\shared\\_navpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\controllers\\trackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\controllers\\trackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\track\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\track\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\wwwroot\\css\\style_1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\wwwroot\\css\\style_1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\wwwroot\\css\\min\\allstyles.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\wwwroot\\css\\min\\allstyles.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\trainee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\trainee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\trainee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\trainee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\viewmodels\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\viewmodels\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\traineecourse\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\traineecourse\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\trainee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\trainee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\trainee\\_editmodepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\trainee\\_editmodepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\repositories\\traineecoursereposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\repositories\\traineecoursereposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\repositories\\itraineecourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\repositories\\itraineecourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\repositories\\itraineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\repositories\\itraineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\repositories\\traineereposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\repositories\\traineereposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\traineecourse\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\traineecourse\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\traineecourse\\assigncourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\traineecourse\\assigncourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\traineecourse\\gettraineecoursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\traineecourse\\gettraineecoursedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\traineecourse\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\traineecourse\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\repositories\\itrackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\repositories\\itrackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\exam_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\exam_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\track\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\track\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\track\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\track\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\views\\track\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\views\\track\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0628\u0631\u0646\u062A\\Downloads\\Day9_Demos\\Day8Demo_SD45\\Day8Demo_SD45\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|c:\\users\\\u0628\u0631\u0646\u062A\\source\\repos\\exam_mvc\\exam_mvc\\wwwroot\\css\\min\\allstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FD900D61-3A99-48FD-9094-6C559E129CF2}|Exam_mvc\\Exam_mvc.csproj|solutionrelative:exam_mvc\\wwwroot\\css\\min\\allstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T10:22:31.633Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\TraineeCourse\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\TraineeCourse\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\TraineeCourse\\Delete.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\TraineeCourse\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T16:04:22.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Track\\Details.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Track\\Details.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Track\\Details.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Track\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T15:42:01.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Models\\AppUser.cs",
+              "RelativeToolTip": "Exam_mvc\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:30:24.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Models\\Course.cs",
+              "RelativeToolTip": "Exam_mvc\\Models\\Course.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:29:23.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\ViewModels\\LoginUserViewModel.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\ViewModels\\LoginUserViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\ViewModels\\LoginUserViewModel.cs",
+              "RelativeToolTip": "Exam_mvc\\ViewModels\\LoginUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:55:04.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Track.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Models\\Track.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\Models\\Track.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Models\\Track.cs",
+              "RelativeToolTip": "Exam_mvc\\Models\\Track.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:42:32.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Exam_mvc\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAEwDEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:00:17.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Models\\Trainee.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\Models\\Trainee.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Models\\Trainee.cs",
+              "RelativeToolTip": "Exam_mvc\\Models\\Trainee.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAvwCMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:33:13.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\TraineeCourse\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\TraineeCourse\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\TraineeCourse\\Edit.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\TraineeCourse\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwCsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T21:43:19.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\TraineeCourse\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\TraineeCourse\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\TraineeCourse\\Index.cshtml*",
+              "RelativeToolTip": "Exam_mvc\\Views\\TraineeCourse\\Index.cshtml*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T20:34:22.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAEwFsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T12:17:41.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TraineeCourseController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Controllers\\TraineeCourseController.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\Controllers\\TraineeCourseController.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Controllers\\TraineeCourseController.cs*",
+              "RelativeToolTip": "Exam_mvc\\Controllers\\TraineeCourseController.cs*",
+              "ViewState": "AgIAAF0AAAAAAAAAAADgv2MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:15:09.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_NavPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Shared\\_NavPartial.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Shared\\_NavPartial.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Shared\\_NavPartial.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Shared\\_NavPartial.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAEwC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T13:33:56.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T12:17:49.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrackController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Controllers\\TrackController.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\Controllers\\TrackController.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Controllers\\TrackController.cs",
+              "RelativeToolTip": "Exam_mvc\\Controllers\\TrackController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADgv0wAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:02:43.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Track\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Track\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Track\\Index.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Track\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T14:42:49.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TraineeCourse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Models\\TraineeCourse.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\Models\\TraineeCourse.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Models\\TraineeCourse.cs",
+              "RelativeToolTip": "Exam_mvc\\Models\\TraineeCourse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:53:19.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T14:28:50.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T14:02:30.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Style_1.css",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\wwwroot\\css\\Style_1.css",
+              "RelativeDocumentMoniker": "Exam_mvc\\wwwroot\\css\\Style_1.css",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\wwwroot\\css\\Style_1.css",
+              "RelativeToolTip": "Exam_mvc\\wwwroot\\css\\Style_1.css",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-23T13:36:35.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "allStyles.min.css",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\wwwroot\\css\\min\\allStyles.min.css",
+              "RelativeDocumentMoniker": "Exam_mvc\\wwwroot\\css\\min\\allStyles.min.css",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\wwwroot\\css\\min\\allStyles.min.css",
+              "RelativeToolTip": "Exam_mvc\\wwwroot\\css\\min\\allStyles.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-29T14:36:36.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T14:28:44.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\appsettings.json",
+              "RelativeDocumentMoniker": "Exam_mvc\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\appsettings.json",
+              "RelativeToolTip": "Exam_mvc\\appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T13:48:24.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Program.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Program.cs",
+              "RelativeToolTip": "Exam_mvc\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAEwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:40:26.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAEwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T13:59:53.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\ViewModels\\RegisterUserViewModel.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\ViewModels\\RegisterUserViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\ViewModels\\RegisterUserViewModel.cs",
+              "RelativeToolTip": "Exam_mvc\\ViewModels\\RegisterUserViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:55:09.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Trainee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Trainee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Trainee\\Edit.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Trainee\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T21:14:21.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Trainee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Trainee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Trainee\\Index.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Trainee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T20:52:12.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\TraineeCourse\\Details.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\TraineeCourse\\Details.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\TraineeCourse\\Details.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\TraineeCourse\\Details.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAEwCoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T22:45:38.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_EditModePartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Trainee\\_EditModePartial.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Trainee\\_EditModePartial.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Trainee\\_EditModePartial.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Trainee\\_EditModePartial.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T22:14:23.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TraineeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Controllers\\TraineeController.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\Controllers\\TraineeController.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Controllers\\TraineeController.cs",
+              "RelativeToolTip": "Exam_mvc\\Controllers\\TraineeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADgvx0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:15:05.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Trainee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Trainee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Trainee\\Create.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Trainee\\Create.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T12:30:26.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TraineeCourseRepoService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Repositories\\TraineeCourseRepoService.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\Repositories\\TraineeCourseRepoService.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Repositories\\TraineeCourseRepoService.cs",
+              "RelativeToolTip": "Exam_mvc\\Repositories\\TraineeCourseRepoService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADgvxYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:25:45.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ITraineeCourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Repositories\\ITraineeCourseRepository.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\Repositories\\ITraineeCourseRepository.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Repositories\\ITraineeCourseRepository.cs",
+              "RelativeToolTip": "Exam_mvc\\Repositories\\ITraineeCourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:23:47.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Exam_mvc\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Exam_mvc\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T14:14:41.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Exam_mvc\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-29T10:22:29.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TraineeRepoService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Repositories\\TraineeRepoService.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\Repositories\\TraineeRepoService.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Repositories\\TraineeRepoService.cs",
+              "RelativeToolTip": "Exam_mvc\\Repositories\\TraineeRepoService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:27:25.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ITraineeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Repositories\\ITraineeRepository.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\Repositories\\ITraineeRepository.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Repositories\\ITraineeRepository.cs",
+              "RelativeToolTip": "Exam_mvc\\Repositories\\ITraineeRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:02:23.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\TraineeCourse\\Create.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\TraineeCourse\\Create.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\TraineeCourse\\Create.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\TraineeCourse\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T21:22:14.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AssignCourse.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\TraineeCourse\\AssignCourse.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\TraineeCourse\\AssignCourse.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\TraineeCourse\\AssignCourse.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\TraineeCourse\\AssignCourse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T21:00:33.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetTraineeCourseDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\TraineeCourse\\GetTraineeCourseDetails.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\TraineeCourse\\GetTraineeCourseDetails.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\TraineeCourse\\GetTraineeCourseDetails.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\TraineeCourse\\GetTraineeCourseDetails.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T21:00:51.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\TraineeCourse\\Index1.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\TraineeCourse\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\TraineeCourse\\Index1.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\TraineeCourse\\Index1.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T21:05:45.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ITrackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Repositories\\ITrackRepository.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\Repositories\\ITrackRepository.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Repositories\\ITrackRepository.cs",
+              "RelativeToolTip": "Exam_mvc\\Repositories\\ITrackRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:25:00.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Exam_mvc.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Exam_mvc.csproj",
+              "RelativeDocumentMoniker": "Exam_mvc\\Exam_mvc.csproj",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Exam_mvc.csproj",
+              "RelativeToolTip": "Exam_mvc\\Exam_mvc.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwAsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T14:14:37.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Exam_mvc\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Exam_mvc\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:55:12.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Track\\Create.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Track\\Create.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Track\\Create.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Track\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvyoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T14:42:44.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Track\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Track\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Track\\Delete.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Track\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAADgvyAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T14:52:08.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Course\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Course\\Edit.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T14:44:13.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Track\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Exam_mvc\\Views\\Track\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\Views\\Track\\Edit.cshtml",
+              "RelativeToolTip": "Exam_mvc\\Views\\Track\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T14:43:21.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\Downloads\\Day9_Demos\\Day8Demo_SD45\\Day8Demo_SD45\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Day9_Demos\\Day8Demo_SD45\\Day8Demo_SD45\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\Downloads\\Day9_Demos\\Day8Demo_SD45\\Day8Demo_SD45\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Day9_Demos\\Day8Demo_SD45\\Day8Demo_SD45\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADgvxMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:59:12.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "allStyles.css",
+              "DocumentMoniker": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\wwwroot\\css\\min\\allStyles.css",
+              "RelativeDocumentMoniker": "Exam_mvc\\wwwroot\\css\\min\\allStyles.css",
+              "ToolTip": "C:\\Users\\\u0628\u0631\u0646\u062A\\source\\repos\\Exam_mvc\\Exam_mvc\\wwwroot\\css\\min\\allStyles.css",
+              "RelativeToolTip": "Exam_mvc\\wwwroot\\css\\min\\allStyles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-23T13:35:03.356Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    /* General Page Styling */
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f8f9fa;
+        color: #333;
+    }
+
+    /* Hero Section */
+    .hero {
+        
+        color: white;
+        text-align: center;
+        padding: 60px 20px;
+        border-radius: 10px;
+    }
+
+        .hero h1 {
+            font-size: 2.5rem;
+            font-weight: bold;
+        }
+
+    /* Container */
+    .container {
+        max-width: 1100px;
+        margin: auto;
+    }
+
+    /* Section Titles */
+    .text-center {
+        font-size: 1.8rem;
+        font-weight: bold;
+        color:  aqua
+        margin-bottom: 20px;
+    }
+
+    /* Card Styling */
+    .card-custom {
+        border: none;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .card-custom:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+
+    .card-title i {
+        font-size: 1.5rem;
+        margin-right: 5px;
+        color: #007bff;
+    }
+
+    /* Button Styling */
+    .btn-custom {
+        background-color: #007bff;
+        color: white;
+        padding: 8px 15px;
+        border-radius: 5px;
+        text-decoration: none;
+        font-weight: bold;
+        display: inline-block;
+        transition: background 0.3s ease;
+    }
+
+        .btn-custom:hover {
+            background-color: #0056b3;
+            color: white;
+        }
+
+    /* Footer */
+    .footer {
+        background-color: #343a40;
+        color: white;
+        text-align: center;
+        padding: 15px 0;
+        font-size: 0.9rem;
+        border-radius: 5px;
+    }
+</style>
+
+<div class="hero">
+    <h1>Welcome to Training Management System</h1>
+</div>
+
+<div class="container ">
+    <h2 class="text-center">Our Services</h2>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card card-custom">
+                <div class="card-body text-center">
+                    <h5 class="card-title"><i class="fas fa-user-graduate"></i> Trainees</h5>
+                    <p>Manage trainee records and track their progress.</p>
+                    <a href="/Trainee" class="btn btn-custom">View</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card card-custom">
+                <div class="card-body text-center">
+                    <h5 class="card-title"><i class="fas fa-chalkboard-teacher"></i> Courses</h5>
+                    <p>Manage available courses and trainee enrollments.</p>
+                    <a href="/Course" class="btn btn-custom">View</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card card-custom">
+                <div class="card-body text-center">
+                    <h5 class="card-title"><i class="fas fa-layer-group"></i> Tracks</h5>
+                    <p>Organize courses into structured training tracks.</p>
+                   
+                    <a href="/Track" class="btn btn-custom">View</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

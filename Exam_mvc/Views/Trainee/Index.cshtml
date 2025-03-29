@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Exam_mvc.Models.Trainee>
+
+@{
+    ViewData["Title"] = "Trainees";
+}
+
+<div class="container mt-4">
+    <h2 class="text-white mb-3"><i class="fas fa-users"></i> Trainees List</h2>
+
+    <div class="d-flex justify-content-between mb-3">
+        <a asp-action="Create" class="btn btn-warning ">
+            <i class="fas fa-user-plus"></i> Add New Trainee
+        </a>
+    </div>
+
+    <table class="table table-hover shadow-sm bg-white rounded">
+        <thead class="table-dark">
+            <tr>
+                <th><i class="fas fa-user"></i> Name</th>
+                <th><i class="fas fa-venus-mars"></i> Gender</th>
+                <th><i class="fas fa-envelope"></i> Email</th>
+                <th><i class="fas fa-phone"></i> Mobile</th>
+                <th><i class="fas fa-birthday-cake"></i> Birthdate</th>
+                <th><i class="fas fa-layer-group"></i> Track</th>
+                <th><i class="fas fa-cogs"></i> Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="align-middle">
+                    <td>
+                        <div class="d-flex align-items-center">
+                            
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </div>
+                    </td>
+                    <td>
+                        <span class="badge @(item.Gender == Gender.Male ? "bg-primary" : "bg-dark")">
+                            @Html.DisplayFor(modelItem => item.Gender)
+                        </span>
+                    </td>
+                    <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                    <td>@Html.DisplayFor(modelItem => item.MobileNo)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Birthdate)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Trk.Name)</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.ID" class="btn btn-warning btn-sm">
+                            <i class="fas fa-edit"></i>
+                        </a>
+                        <a asp-action="Details" asp-route-id="@item.ID" class="btn btn-info btn-sm">
+                            <i class="fas fa-eye"></i>
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-danger btn-sm">
+                            <i class="fas fa-trash-alt"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
+}

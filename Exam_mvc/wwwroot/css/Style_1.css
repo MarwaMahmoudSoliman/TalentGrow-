@@ -1,0 +1,44 @@
+﻿/* 🌟 Global Styling */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+    color: #212529;
+}
+
+/* 🌟 Navbar Styling */
+.navbar {
+   background: linear-gradient(to right, #007bff, #6610f2);
+}
+
+.navbar-brand, .nav-link {
+    color: white !important;
+    font-weight: 500;
+}
+
+/* 🌟 Hero Section */
+
+.hero {
+    background: url('https://source.unsplash.com/1600x900/?education,training') center/cover no-repeat;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+
+/* Footer */
+.footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 0.9rem;
+    border-radius: 5px;
+}

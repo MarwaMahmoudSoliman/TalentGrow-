@@ -1,0 +1,49 @@
+﻿@model List<int>
+
+@{
+    var trainee = ViewData["Trainee"] as Trainee;
+    var courses = ViewData["Courses"] as List<SelectListItem>;
+}
+
+<div class="container mt-4">
+    <h2 class="text-primary text-center">Edit Courses for Trainee: @trainee?.Name</h2>
+
+    <div class="card shadow-sm p-4">
+        <form asp-action="Edit" method="post">
+            <input type="hidden" name="traineeId" value="@trainee?.ID" />
+
+            <div class="form-group">
+                <label class="font-weight-bold">Available Courses:</label>
+                <select name="courseIds" class="form-control" multiple>
+                    @foreach (var course in courses)
+                    {
+                        <option value="@course.Value" selected="@course.Selected">@course.Text</option>
+                    }
+                </select>
+                <small class="form-text text-muted">Hold Ctrl (Windows) or Command (Mac) to select multiple courses.</small>
+            </div>
+
+            <div class="mt-3">
+                <button type="submit" class="btn btn-success"><i class="fas fa-save"></i> Update</button>
+                <a asp-action="Index" class="btn btn-secondary"><i class="fas fa-times"></i> Cancel</a>
+            </div>
+        </form>
+    </div>
+
+    <hr class="my-4">
+
+    <h3 class="text-danger text-center">Remove a Course</h3>
+    <div class="list-group">
+        @foreach (var course in courses)
+        {
+            <div class="list-group-item d-flex justify-content-between align-items-center">
+                <span class="font-weight-bold">@course.Text</span>
+                <form asp-action="DeleteCourse" method="post" class="d-inline">
+                    <input type="hidden" name="traineeId" value="@trainee?.ID" />
+                    <input type="hidden" name="courseId" value="@course.Value" />
+                    <button type="submit" class="btn btn-danger btn-sm"><i class="fas fa-trash"></i> Remove</button>
+                </form>
+            </div>
+        }
+    </div>
+</div>

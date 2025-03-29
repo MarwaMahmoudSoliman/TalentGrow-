@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Exam_mvc.Models.TraineeCourse>
+<div class="d-flex justify-content-between mb-3">
+    <a asp-action="Create" class="btn btn-success">
+        <i class="fas fa-user-plus"></i> Assign Course
+    </a>
+</div>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Trainee Name</th>
+            <th>Course</th>
+            <th>Grade</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Trainee.Name</td>
+                <td>@item.Course.Topic</td>
+                <td>@item.Grade</td>
+              
+
+                <td>
+                    <a asp-action="Edit" asp-route-traineeId="@item.TraineeID" asp-route-courseId="@item.CourseID" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="Details" asp-route-traineeId="@item.TraineeID" asp-route-courseId="@item.CourseID" class="btn btn-info btn-sm">Details</a>
+                   
+               
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,46 @@
+﻿@model Exam_mvc.Models.Trainee
+
+@{
+    ViewData["Title"] = "Trainee Details";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-lg p-4 bg-light rounded">
+        <h2 class="mb-4 text-primary"><i class="fas fa-user"></i> Trainee Details</h2>
+
+       
+        <dl class="row">
+            <dt class="col-sm-3 fw-bold"><i class="fas fa-user"></i> Name</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Name)</dd>
+
+            <dt class="col-sm-3 fw-bold"><i class="fas fa-venus-mars"></i> Gender</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Gender)</dd>
+
+            <dt class="col-sm-3 fw-bold"><i class="fas fa-envelope"></i> Email</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Email)</dd>
+
+            <dt class="col-sm-3 fw-bold"><i class="fas fa-phone"></i> Mobile No</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.MobileNo)</dd>
+
+            <dt class="col-sm-3 fw-bold"><i class="fas fa-birthday-cake"></i> Birthdate</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Birthdate)</dd>
+
+            <dt class="col-sm-3 fw-bold"><i class="fas fa-layer-group"></i> Track</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Trk.Name)</dd>
+        </dl>
+
+        <div class="d-flex justify-content-between mt-3">
+            <a asp-action="Edit" asp-route-id="@Model?.ID" class="btn btn-warning">
+                <i class="fas fa-edit"></i> Edit
+            </a>
+            <a asp-action="Index" class="btn btn-secondary">
+                <i class="fas fa-arrow-left"></i> Back to List
+            </a>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
+}

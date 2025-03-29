@@ -1,0 +1,70 @@
+﻿@model Exam_mvc.ViewModels.RegisterUserViewModel
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="container d-flex justify-content-center align-items-center ">
+    <div class="card shadow-lg p-4" style="max-width: 500px; width: 100%; height: auto; style="height: auto;background: linear-gradient(to bottom, #87CEEB, #4682B4);">
+
+        <div class="text-center">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-zwWv8bp1lh4vW8nzkdyXESlZV0Qdciwlw&s"
+                 alt="User" class="rounded-circle mb-3"
+            style="width: 50px; height: 50px;">
+
+            <h2 class="text-black">Create an Account</h2>
+        </div>
+
+        <form asp-action="Register">
+            <div asp-validation-summary="All" class="text-danger text-center"></div>
+
+            <div class="form-group mt-3">
+                <label asp-for="UserName" class="control-label"><i class="fas fa-user"></i> Username</label>
+                <input asp-for="UserName" class="form-control" placeholder="Enter your username" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <label asp-for="Password" class="control-label"><i class="fas fa-lock"></i> Password</label>
+                <input asp-for="Password" type="password" class="form-control" placeholder="Enter password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <label asp-for="ConfirmPassword" class="control-label"><i class="fas fa-lock"></i> Confirm Password</label>
+                <input asp-for="ConfirmPassword" type="password" class="form-control" placeholder="Confirm password" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <label asp-for="FirstName" class="control-label"><i class="fas fa-id-badge"></i> First Name</label>
+                <input asp-for="FirstName" class="form-control" placeholder="Enter your first name" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <label asp-for="LastName" class="control-label"><i class="fas fa-id-badge"></i> Last Name</label>
+                <input asp-for="LastName" class="form-control" placeholder="Enter your last name" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <label asp-for="Job" class="control-label"><i class="fas fa-briefcase"></i> Job</label>
+                <input asp-for="Job" class="form-control" placeholder="Enter your job title" />
+                <span asp-validation-for="Job" class="text-danger"></span>
+            </div>
+
+            <div class="form-group text-center mt-4">
+                <button type="submit" class="btn btn-lg w-100" style="background: linear-gradient(to bottom, #87CEEB, #4682B4); color: white;">
+                    Register <i class="fas fa-arrow-right"></i>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
