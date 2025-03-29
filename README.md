@@ -4,6 +4,7 @@
 ## Building Scalable ASP.NET Core MVC Applications! 💡
 
 I'm excited to share my latest project, where I leveraged **ASP.NET Core MVC** to build a scalable application for managing **Trainees, Tracks, and Courses**!
+![TalentGrow Screenshot](images/web.png)
 
 ---
 
